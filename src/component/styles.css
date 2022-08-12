@@ -1,0 +1,37 @@
+.topInput{
+    padding:10px 5px 10px 5px;
+    max-width: 720px;
+    margin: 0 auto;
+    min-height: 50vh;
+    font-family: 'Roboto', sans-serif !important;
+  	box-sizing: border-box;
+}
+
+.topInput{
+  margin-top:80px;
+
+}
+.inpitForm {
+    
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 4px 3px 20px #3535358c;
+    border-radius: 7px;
+    box-sizing: border-box;
+    /* height: 400px; */
+    padding: 40px;
+    /* width: 720px; */
+  }
+
+.inputBox{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.btnFunction{
+    display:  flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    /* flex: auto; */
+}
